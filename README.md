@@ -21,3 +21,5 @@ make && make install
 ```
 cd ~ && ./retroarch/bin/retroarch
 ```
+
+RetroArch will look odd at first, you will need to download the assets, info, etc inside it and restart it.
